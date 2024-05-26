@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'bub-site-app';
-  readonly endDate: Date = new Date(2024,7,8, 19, 0, 0 );
+  readonly endDate: Date = new Date(2024,7,8, 20, 0, 0 );
 }
